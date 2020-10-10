@@ -68,4 +68,4 @@ fisher.test(table1)
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-The p-value from the fisher's test was 0.0000659 and the chisquare was 0.0001 which are < 0.05 therefore we reject the null hypothesis. The graphs shows that the drug makes women more susceptible than the placebo.  
+The p-value from the fisher's test was 0.0000659 and the chisquare was 0.00007686 which are < 0.05 therefore we reject the null hypothesis. The graphs shows that the drug makes women more susceptible than the placebo.  
